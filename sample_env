@@ -1,0 +1,16 @@
+# Nasil Olunur RSS Feed
+NO_URL="https://feeds.simplecast.com/TRRbx_5C"
+
+# Google Drive
+DRIVE_API_CLIENT_ID=""
+DRIVE_API_CLIENT_SECRET=""
+
+# Assembly AI - Voice to Text Transcription Service
+AAI_API=""
+AAI_API_2=""
+
+# Translation Service
+DEEPL_API_KEY=""
+
+# LLM Service
+OPENAI_API_KEY=""
